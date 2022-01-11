@@ -1,0 +1,7 @@
+*.htm
+*.html 
+
+.DS_Store 
+.idea 
+
+.txt
