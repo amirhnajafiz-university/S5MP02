@@ -1,3 +1,3 @@
 # Assembly Home 
 
-Do some coding in assemlby language to warm-up myself.
+Some assembly programming language coding to warm myself up for my exams :)
